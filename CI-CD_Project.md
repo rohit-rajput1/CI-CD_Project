@@ -2,7 +2,7 @@
 
 Let's make a beautiful **CI/CD Pipeline** for your Node JS Application.
 
-![Jenkins CI-CD Pipeline](/CI-CD.png)
+![Jenkins CI-CD Pipeline](/jenkins.png)
 
 ## What is CI/CD Pipeline?
 - **`CI`** or **`Continuous Integration`** is the practice of automating the integration of code changes from multiple developers into a **single codebase**. It is a software development practice where the developers commit their work frequently into the central code repository (Github or Stash). Then there are automated tools that build the newly committed code and do a code review, etc as required upon integration.
